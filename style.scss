@@ -127,7 +127,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $color-date;
 }
 
 // Specify the color of the selection
@@ -292,7 +292,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  //margin-top: 50px;
   //border-top: 1px solid #ddd;
   //border-bottom: 1px solid #ddd;
   background-color: $color-foot-bg;
@@ -300,6 +300,7 @@ nav {
 
 footer {
   padding: 20px 0;
+  border-top: 1px solid $color-foot-bdr;
   text-align: center;
 }
 
