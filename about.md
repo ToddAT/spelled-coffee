@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Todd. I live in Brooklyn when not wandering down the rabbit hole of enthusiast coffee.
 
-### More Information
+### My Equipment
 
-A place to include any other types of information that you'd like to include about yourself. 
+* VBM Double Boiler Espresso Machine
+* HG-One Manual Grinder
+* Modded Hario Skerton Grinder
+* Clever, Beehouse, Chemex coffee brewers
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Currently Drinking
+* *Stockist Blend*, Parlor Coffee
+* *Kiambara Peaberry*, Cafe Grumpy
