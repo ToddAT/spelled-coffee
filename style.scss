@@ -18,6 +18,8 @@ html {
 }
 
 body {
+  margin: 0;
+  padding: 0;
 	background: $color-bg;
   font: 18px/1.4 $helvetica;
   color: $color-text;
@@ -28,6 +30,14 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+
+article {
+  padding: 10px 0;
+
+  h1:first-child {
+    margin-top: 0;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -150,8 +160,13 @@ img {
 // .masthead
 //
 
+.container, .wrapper-masthead, .wrapper-footer {
+  background: rgba($color-bg, 0.8);
+}
+
 .wrapper-masthead {
-  margin-bottom: 50px;
+  //margin-bottom: 50px;
+  background: rgba($color-bg, 1);
 }
 
 .masthead {
@@ -240,6 +255,11 @@ nav {
 //
 // .main
 //
+
+.wrapper-content {
+  padding: 20px 0;
+  background: $color-bg url('/images/coffee-pattern-faded.png');
+}
 
 .posts > .post {
   padding-bottom: 2em;
