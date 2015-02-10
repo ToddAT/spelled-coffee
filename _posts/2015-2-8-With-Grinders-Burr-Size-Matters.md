@@ -2,6 +2,7 @@
 layout: post
 title: Note to Self - With Grinders, Burr Size Matters
 categories: [notes to self, grinders]
+published: false
 ---
 
 Posts show up frequently in [reddit](http://www.reddit.com/r/Coffee/), and elsewhere I'm sure, asking about grinder purchase advice. Most often, it comes down to budget and preference for manual or automatic operation. However, if I'm interested purely in the quality of the grinder output, what I'm most interested in is the size of the burrs.
@@ -21,7 +22,7 @@ Commercial grinders universally use large, beefy, burrs.  I'm sure a reason, may
 |Mazzer Mini       |        58mm|$779     |
 |Baratza Forte     |        54mm|$950     |
 |Baratza Vario     |        54mm|$575     |
-|OE Lido 2         |        48mm|$175     |        
+|OE Lido 2         |        48mm|$175     |  
 
 The above very official sounding logic has not, in any way, been fact-checked. That said, I think it's clear from my own experience as well as those found in forums such as [CoffeeGeek](http://www.coffeegeek.com), [Home Barista](http://www.home-barista.com), and elsewhere, that the commercial grinders with the largest burrs tend to produce the best coffee in the cup (*see the [Titan Grinder Project](http://www.home-barista.com/reviews/titan-grinder-project-t4126.html) threads for extremely detailed discussion about this*).
 
