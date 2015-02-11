@@ -325,9 +325,13 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    -moz-border-radius: 7px 0px 7px 0px;
+    -webkit-border-radius: 7px 0px 7px 0px;
+    border-radius: 7px 0px 7px 0px;
+    border: 0px solid $color-quote-bdr;
     padding: 0.1em 1em;
-    color: $gray;
+    background: $color-quote-bg;
+    color: $color-quote-text;
     font-size: 22px;
     font-style: italic;
   }

@@ -8,12 +8,15 @@ layout: default
 		<header class="post-header post-summary-header">
   			<h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
   			<div class="post-date">
-			Roasted on {{ post.date | date: "%B %e, %Y" }}
+			Roasted on {{ post.date | date: "%B %e, %Y" }}; Tasting Notes:
+			{% for cat in post.categories %}
+				<span class="post-cat">{{ cat }}</span>
+			{% endfor %}
 		</div>
 		</header>
 
 		<section class="post-entry post-summary-entry">
-			{{ post.content | truncatewords:40}}
+			{{ post.excerpt | truncatewords:40}}
 		</section>
       
 		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

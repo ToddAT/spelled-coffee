@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Taster's Choice
-categories: [general]
 published: true
 ---
 
