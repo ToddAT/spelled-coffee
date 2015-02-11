@@ -33,8 +33,6 @@ body {
 }
 
 article {
-  padding: 10px 0;
-
   a {
     text-decoration: underline;
   }
@@ -90,10 +88,10 @@ a {
   color: $color-link;
   text-decoration: none;
 	cursor: pointer;
-  transition: color 0.5s ease;
 
   &:hover, &:active {
     color: $color-link-hi;
+    transition: color 0.5s ease;
   }
 }
 
@@ -137,7 +135,7 @@ img {
 
 .post-header {
   display: block;
-  margin: -10px;
+  //margin: -10px;
   background: $color-hdr-bg;
   border-radius: 7px 7px 0px 0px;
   -moz-border-radius: 7px 7px 0px 0px;
@@ -165,10 +163,17 @@ img {
 }
 
 .post-entry {
-  margin-top: 25px;
+  padding: 10px;
+}
+
+.post-footer {
+  padding: 0;
+  background: $color-post-ftr-bg;
 }
 
 .read-more {
+  display: block;
+  padding: 10px;
   text-decoration: none;
 }
 
@@ -202,7 +207,7 @@ img {
 // .masthead
 //
 
-.container, .wrapper-masthead, .wrapper-footer {
+.post, .wrapper-masthead, .wrapper-footer {
   background: rgba($color-bg, 0.8);
 }
 
@@ -297,15 +302,6 @@ nav {
 //
 // .main
 //
-#main { 
-  border-radius: 7px 7px 7px 7px;
-  -moz-border-radius: 7px 7px 7px 7px;
-  -webkit-border-radius: 7px 7px 7px 7px;
-  border: 0px solid #000000;
-  -webkit-box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
-  -moz-box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
-  box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
-}
 
 .wrapper-content {
   padding: 20px 0;
@@ -313,16 +309,25 @@ nav {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $color-post-bdr;
+  margin-bottom: 40px;
+  //padding-bottom: 2em;
+  //border-bottom: 1px solid $color-post-bdr;
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
+  //padding-bottom: 1em;
   border-bottom: none;
 }
 
 .post {
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border-radius: 7px 7px 7px 7px;
+  border: 0px solid #000000;
+  -webkit-box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
+  -moz-box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
+  box-shadow: 10px 10px 7px 0px rgba(0,0,0,0.40);
+
   blockquote {
     margin: 1.8em .8em;
     -moz-border-radius: 7px 0px 7px 0px;
