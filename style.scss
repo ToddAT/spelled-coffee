@@ -166,6 +166,10 @@ img {
   padding: 10px;
 }
 
+.post-comments {
+  padding: 10px;
+}
+
 .post-footer {
   padding: 0;
   background: $color-post-ftr-bg;
@@ -197,6 +201,11 @@ img {
 
 .clearfix:after {
     clear: both;
+}
+
+// Comments
+.fyre-stream-stats, .fyre-stream-livecount {
+  color: $color-post-cmt-hdr;
 }
 
 /*********************/
