@@ -168,12 +168,10 @@ img {
 
 .post-comments {
   padding: 10px;
-  
+
   // Comments
-  .fire {
-    .fyre-stream-stats, .fyre-stream-livecount {
-      color: $color-post-cmt-hdr;
-    }
+  .fyre-stream-stats, .fyre-user-drop, .fyre-stream-livecount {
+    color: $color-post-cmt-hdr !important;
   }
 }
 
