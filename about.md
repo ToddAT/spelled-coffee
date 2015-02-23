@@ -14,5 +14,7 @@ I'm Todd. I live in Brooklyn when not wandering down the rabbit hole of enthusia
 * Clever, Beehouse, Chemex coffee brewers
 
 ### Currently Drinking
-* *Stockist Blend*, Parlor Coffee
-* *Kiambara Peaberry*, Cafe Grumpy
+* *Borboya Espresso*, George Howell
+* <del>*Hologram*, Counter Culture Coffee</del>
+* <del>*Stockist Blend*, Parlor Coffee</del>
+* <del>*Kiambara Peaberry*, Cafe Grumpy</del>
