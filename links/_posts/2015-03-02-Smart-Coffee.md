@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Smart Coffee
+title: Roasting for Regular Joes
 published: false
 ---
-Over the weekend, Charles Babinski won the [2015 US Barista Championship](http://uscoffeechampionships.org/us-barista-championship/).
+I ran across [this article about coffee roasting](http://www.thekitchn.com/what-actually-happens-during-coffee-roasting-216574) at thekitchn. It's rather simple but is works as a primer.
 
 <!--more-->
 
