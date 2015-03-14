@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caffebene @ 28th Street, 5th Ave, Manhattan
-published: false
+published: true
 categories: [local, shop-talk]
 ---
 
@@ -17,4 +17,4 @@ It's a nice enough looking place: natural wood interiors, some pasteries, sandwi
 
 I can't say I tasted any of those tasting notes mentioned on the guide in that particular drink. It was probably a touch over bitter which is saying something given that milk cures a lot of espresso flavor ills. That said, it wasn't bad, it was quite drinkable, and I would certainly rank it above Starbuck's. It's not going to knock Birch Coffee or Stumptown off my rotation but, in a pinch, or when I don't feel like spending half my life in line, it can tide me over just fine.
 
-<a href="http://www.bloglovin.com/blog/13812837/?claim=6pfs2fermxp">Follow my blog with Bloglovin</a>
+<a style="visibility:hidden;" href="http://www.bloglovin.com/blog/13812837/?claim=6pfs2fermxp">Follow my blog with Bloglovin</a>
