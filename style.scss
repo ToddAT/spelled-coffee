@@ -133,6 +133,10 @@ img {
   max-width: none;
 }
 
+.disabled {
+  opacity: 0.35;
+}
+
 .post-header {
   display: block;
   //margin: -10px;
@@ -358,6 +362,10 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.pagination {
+  text-align: center;
 }
 
 .wrapper-footer {

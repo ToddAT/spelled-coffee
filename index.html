@@ -3,25 +3,69 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post post-summary">    
-		<header class="post-header post-summary-header">
-  			<h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  			<div class="post-date">
-			Roasted on {{ post.date | date: "%B %e, %Y" }}; Tasting Notes:
-			{% for cat in post.categories %}
-				<span class="post-cat">{{ cat }}</span>
-			{% endfor %}
-		</div>
-		</header>
+	{% for post in paginator.posts %}
+  		{% if paginator.page < 2 and forloop.index < 2 %}
+		    <article class="post post-summary post-featured">    
+				<header class="post-header post-summary-header">
+		  			<h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		  			<div class="post-date">
+					Roasted on {{ post.date | date: "%B %e, %Y" }}; Tasting Notes:
+					{% for cat in post.categories %}
+						<span class="post-cat">{{ cat }}</span>
+					{% endfor %}
+				</div>
+				</header>
 
-		<section class="post-entry post-summary-entry">
-			{{ post.excerpt | truncatewords:40}}
-		</section>
-      
-		<footer class="post-footer">
-			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-		</footer>
-    </article>
+				<section class="post-entry post-summary-entry">
+					{{ post.excerpt }}
+				</section>
+		      
+				<footer class="post-footer">
+					<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+				</footer>
+		    </article>
+    	{% else %}
+		    <article class="post post-summary post-secondary">    
+				<header class="post-header post-summary-header">
+		  			<h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		  			<div class="post-date">
+					Roasted on {{ post.date | date: "%B %e, %Y" }}; Tasting Notes:
+					{% for cat in post.categories %}
+						<span class="post-cat">{{ cat }}</span>
+					{% endfor %}
+				</div>
+				</header>
+		      
+				<footer class="post-footer">
+					<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+				</footer>
+		    </article>
+	    {% endif %}
   {% endfor %}
 </div>
+
+{% if paginator.total_pages > 1 %}
+	<div class="pagination">
+		{% if paginator.previous_page %}
+			<a class="paginator-link paginator-prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+		{% else %}
+			<span class="paginator-link paginator-prev disabled">&laquo; Prev</span>
+		{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+				<em>{{ page }}</em>
+			{% elsif page == 1 %}
+				<a class="paginator-link paginator-page" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+			{% else %}
+				<a class="paginator-link paginator-page" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+			<a class="paginator-link paginator-next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+		{% else %}
+			<span class="paginator-link paginator-next disabled">Next &raquo;</span>
+		{% endif %}
+	</div>
+{% endif %}
