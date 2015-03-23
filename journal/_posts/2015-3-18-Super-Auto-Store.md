@@ -7,6 +7,8 @@ Consider this my free idea for the day: why hasn't Saeco, or any of the other pr
 
 [![The Boutique by Peter Alfred Hess, on Flickr][image-1]][1]
 
+<!--more-->
+
 These machines routinely get hammered wherever coffee gets discussed, not the least by yours truly, but I can't say I've ever tried one that I knew was properly dialed in. Have you?
 
 I'd be curious to demo a machine that was certified to be properly maintained, stocked with freshly roasted beans, with an accurately set grinder and dose. Maybe I'd be pleasantly surprised.
