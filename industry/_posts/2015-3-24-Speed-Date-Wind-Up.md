@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Five Question Speed Date with Brian of Wind-Up Bird Coffee
-published: false
+title: Five Question Speed Date with Brian Chambers of Wind-Up Bird Coffee
+published: true
 ---
 *This is part of an ongoing series of quick interviews with coffee professionals I've run into who were kind enough to participate.*
 
-Today's victim is Brian of [Wind-Up Bird Coffee](http://windupbirdcoffee.com/).
+Today's victim is Brian Chambers of [Wind-Up Bird Coffee](http://windupbirdcoffee.com/).
 
 ![Wind-Up Bird Coffee](https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/industry/img/wubc-logo.jpg)
 
@@ -13,7 +13,7 @@ Today's victim is Brian of [Wind-Up Bird Coffee](http://windupbirdcoffee.com/).
 
 ## [*Me*] Before we get started, what's your name, company, and title?
 
->[Brian]  Brian, Wind-Up Bird Coffee, Owner and Head Roaster.
+>[Brian]  Brian Chambers, Wind-Up Bird Coffee, Owner and Head Roaster.
 
 ## 1. What do you do, how long have you done it, and how did you get started?
 
@@ -43,6 +43,6 @@ Today's victim is Brian of [Wind-Up Bird Coffee](http://windupbirdcoffee.com/).
 
 ---
 
-Brian is the *Owner* and *Head Roaster* at **Wind-Up Bird Coffee**: [http://windupbirdcoffee.com/](http://windupbirdcoffee.com/).  
+Brian is the *Owner* and *Head Roaster* at **Wind-Up Bird Coffee**: [http://windupbirdcoffee.com](http://windupbirdcoffee.com/).  
 Get friendly with their Facebook at [https://www.facebook.com/WindUpBirdCoffee](https://www.facebook.com/WindUpBirdCoffee);  
 Instagram at: [http://instagram.com/windupbirdcoffee](http://instagram.com/windupbirdcoffee).
