@@ -7,7 +7,7 @@ published: true
 
 Today's victim is Craig Moore of [Straight Razor Roasting](https://www.straightrazorroasting.com/).
 
-![Straight Razor Roasting](https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/industry/img/srr-twittr.png)
+![Straight Razor Roasting](https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/industry/img/srr-twittr-q.png)
 
 <!--more-->
 
