@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Four Question Speed Date with Barista Ryan Curtis
-published: false
+published: true
 ---
 *This is part of an ongoing series of quick interviews with coffee professionals I've run into who were kind enough to participate.*
 
-Today's victim is Ryan Curtis, barista at Splash at the Bellevue Club.
+Today's victim is Ryan Curtis, barista at [Splash at the Bellevue Club](http://www.bellevueclub.com/splash/).
 
-![Wind-Up Bird Coffee](https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/industry/img/wubc-logo.jpg)
+![Ryan Curtis](https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/industry/img/curtis-twittr.png)
 
 <!--more-->
 
@@ -33,6 +33,4 @@ Today's victim is Ryan Curtis, barista at Splash at the Bellevue Club.
 
 ---
 
-Brian is the *Owner* and *Head Roaster* at **Wind-Up Bird Coffee**: [http://windupbirdcoffee.com](http://windupbirdcoffee.com/).  
-Get friendly with their Facebook at [https://www.facebook.com/WindUpBirdCoffee](https://www.facebook.com/WindUpBirdCoffee);  
-Instagram at: [http://instagram.com/windupbirdcoffee](http://instagram.com/windupbirdcoffee).
+Ryan is a *barista* at [Splash at the Bellevue Club](http://www.bellevueclub.com/splash/), in Bellevue, Washington.
