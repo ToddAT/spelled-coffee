@@ -13,7 +13,7 @@ Today's victim is Nate White of [West Coast Roasting](http://www.westcoastroasti
 
 ## [*Me*] Before we get started, what's your name, company, and title?
 
->[Nate]  Nate White, West Coast Roasting, Owner.
+>[Nate]  Nate White, West Coast Roasting, Owner/Roaster.
 
 ## 1. What do you do, how long have you done it, and how did you get started?
 
@@ -55,6 +55,6 @@ Today's victim is Nate White of [West Coast Roasting](http://www.westcoastroasti
 
 ---
 
-Nate is the *Owner* of **West Coast Roasting**: [http://www.westcoastroasting.com](http://www.westcoastroasting.com/).  
+Nate is the *Owner* and *Roaster* of **West Coast Roasting**: [http://www.westcoastroasting.com](http://www.westcoastroasting.com/).  
 Get friendly with their Facebook at [https://www.facebook.com/westcoastroasting](https://www.facebook.com/westcoastroasting);  
 Instagram at: [http://instagram.com/westcoastroasting](http://instagram.com/westcoastroasting).
