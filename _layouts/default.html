@@ -7,12 +7,20 @@
 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@spelledcoffee">
-    <meta name="twitter:creator" content="@ToddTerwilliger">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
-    <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@spelledcoffee"/>
+    <meta name="twitter:creator" content="@ToddTerwilliger"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}"/>
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}"/>
+
+    <meta name="og:url" content="{{ site.baseurl }}{{ page.url }}"/>
+    <meta name="og:title" content="{{ page.title }}"/>
+    <meta name="og:description" content="{{ page.excerpt | strip_html }}"/>
+    <meta name="og:site_name" content="{{ site.name }}"/>
+    <meta name="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}"/>
+    <meta name="og:type" content="article"/>
+
     <meta name="author" content="{{ site.name }}" />
     <meta name="description" content="{{ site.description }}">
     <meta name="google-site-verification" content="HrUTOA7QdWOJ4sDnPujK8CA9yQkl8NUUIoVOCe7LD-w" />

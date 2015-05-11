@@ -8,6 +8,9 @@ name: A Blog Spelled Coffee
 # Short bio or description (displayed in the header)
 description: A Caffeinated Journal
 
+# Default Image for Sharing
+image: https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/images/coffee-share.jpg
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/images/coffee-cup.png
 facebook: https://www.facebook.com/blogspelledcoffee
