@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Week, More or Less, with the CUPS Coffee App
+image: https://raw.githubusercontent.com/toddat/spelled-coffee/gh-pages/reviews/apps/img/cups-twittr.png
 published: true
 ---
 *tl;dr:* You use the CUPS app to pre-pay into a network of coffee providers at a reduced rate. The savings is highly dependent on the plan you buy, the drinks you favor, and the shops you buy from. The Cups network is not curated-- don't expect every vendor on the list to be an accomplished third-wave outpost. 
